@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212652267892",
+    "project_id": "nawarastodos",
+    "storage_bucket": "nawarastodos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212652267892:android:3141276feb383e8aa0b421",
+        "android_client_info": {
+          "package_name": "com.example.click_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212652267892-1v0c4iut75gvubaltbnpest5o9fiik8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpO8EPq_rStuOc6umiwBUfD5M-JJkSxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212652267892-1v0c4iut75gvubaltbnpest5o9fiik8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
